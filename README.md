@@ -15,7 +15,6 @@ This Python script performs ETL (Extract, Transform, Load) operations on recipe 
 
     ```bash
     git clone https://github.com/Amar-Mahdy/recipes-etl.git
-    cd recipe-etl
     ```
 
 2. Navigate to the project directory:
@@ -28,7 +27,7 @@ This Python script performs ETL (Extract, Transform, Load) operations on recipe 
 
     ```bash
         python -m venv venv
-        ```
+    ```
 
 4. Activate the virtual environment for (Mac):
 
@@ -46,7 +45,6 @@ This Python script performs ETL (Extract, Transform, Load) operations on recipe 
 
     ```bash
     python3 etl.py
-
     ```
 
 ### Output
